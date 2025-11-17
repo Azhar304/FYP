@@ -15,3 +15,6 @@ env/
 
 # Logs
 *.log
+
+api/app/reports/*
+!api/app/reports/.gitkeep
